@@ -1,3 +1,4 @@
 # MatrixFactorisation
-matrix factorisation used to convert sparse vectors into dense vectors and embed two domains into a shared space
-also if used as a classification method - it handles multi-class classification
+- useful to convert sparse vectors into dense vectors 
+- to embed two different domains into a shared vector space
+- for multi-class classification tasks

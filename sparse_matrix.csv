@@ -1,0 +1,11 @@
+input,OOD,THANKS,GREET,BYE,DIRECTIONS
+hello,0,0,1,0,0
+how are you,0,0,1,0,0
+i love you,1,1,0,0,0
+thank you so much,0,1,0,0,0
+cheers,0,1,0,0,0
+adios,0,0,0,1,0
+good bye,0,0,0,1,0
+take care,0,0,0,1,0
+how do i get home,0,0,0,0,1
+where is chancery lane,0,0,0,0,1
